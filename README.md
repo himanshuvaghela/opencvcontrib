@@ -10,6 +10,7 @@ Follow the following instrustions to add this modules :
 2) Add mreako.cpp and mreakc.cpp in following location "opencv_contrib\modules\xfeatures2d\src" in opencv_contrib folder after downloading. 
 3) Replace existing xfeatures.2d in "opencv_contrib\modules\xfeatures2d\include\opencv2" by our file.
 4) Now build OpenCV as mentioned on https://www.learnopencv.com/install-opencv3-on-ubuntu/.
+
 NOTE - This files are for OpenCV version 3.3.1
 
 
