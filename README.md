@@ -15,4 +15,10 @@ NOTE - This files are for OpenCV version 3.3.1
 
 We have changed the sampling pattern in MREAK which is different than that of FREAK which is implemented followed by opening and closing of images.
 
+Following is a simple example :
+
+1) Image 1
 ![image 1](example/a1.jpg)
+
+1) Image 1 opened
+![image 1](example/a1open.jpg)
