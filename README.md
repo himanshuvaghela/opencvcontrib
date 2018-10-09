@@ -14,3 +14,5 @@ Follow the following instrustions to add this modules :
 NOTE - This files are for OpenCV version 3.3.1
 
 We have changed the sampling pattern in MREAK which is different than that of FREAK which is implemented followed by opening and closing of images.
+
+![image 1](example/a1.jpg)
