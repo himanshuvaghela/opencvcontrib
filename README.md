@@ -45,14 +45,18 @@ Following is a simple example :
 
 ![All 1498 FREAK keypoints](example/all_1498.jpg)
 
-8) Best opened keypoints in MREAK
+8) Best FREAK keypoints
+
+![Best FREAK keypoints](example/freak.jpg)
+
+9) Best opened keypoints in MREAK
 
 ![Best opened keypoints in MREAK](example/opened_keypoints.jpg)
 
-9) Best closed keypoints in MREAK
+10) Best closed keypoints in MREAK
 
 ![Best closed keypoints in MREAK](example/closed_keypoints.jpg)
 
-10) Both keypoints combined
+11) Both keypoints combined
 
 ![Both keypoints combined](example/both.jpg)
