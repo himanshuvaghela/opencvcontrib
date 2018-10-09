@@ -18,7 +18,9 @@ We have changed the sampling pattern in MREAK which is different than that of FR
 Following is a simple example :
 
 1) Image 1
+
 ![image 1](example/a1.jpg)
 
 1) Image 1 opened
+
 ![image 1](example/a1open.jpg)
