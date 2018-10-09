@@ -21,6 +21,23 @@ Following is a simple example :
 
 ![image 1](example/a1.jpg)
 
-1) Image 1 opened
+2) Image 1 opened
 
 ![image 1](example/a1open.jpg)
+
+3) Image 1 closed
+
+![image 1](example/a1close.jpg)
+
+4) Image 2
+
+![image 1](example/a2.jpg)
+
+5) Image 2 opened
+
+![image 1](example/a2open.jpg)
+
+6) Image 2 closed
+
+![image 2](example/a2close.jpg)
+
